@@ -1,6 +1,6 @@
 # ChatGPT中文版免费使用方法（支持GPT-4，无需翻墙）
 
-> Update：2024/11/28 <br /> 
+> Update：2024/11/29 <br /> 
 > Author：chatgpt-chinese 
 
 如果想免费体验 ChatGPT中文版？那可以接着向下看，国内无需翻墙就能免费用了~ <br />
