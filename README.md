@@ -1,6 +1,6 @@
 # ChatGPT 中文版 免费使用方法（支持GPT-4，GPT-4o）【2024年12月更新】
 
-> Update：2024/12/18 <br /> 
+> Update：2024/12/19 <br /> 
 > Author：chatgpt-chinese  
 
 如果想免费体验 ChatGPT中文版？那可以接着向下看，国内就能直接用了~
